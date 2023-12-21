@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page-wrap {
+  min-height: 100vh;
+  background-color: azure;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.amour-img {
+  max-width: 400px;
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
